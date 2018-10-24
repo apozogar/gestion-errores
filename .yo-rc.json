@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "gestionErrores",
+    "packageName": "com.isban.gestionerrores",
+    "packageFolder": "com/isban/gestionerrores",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "NTI1OWE3NTY3YWJmZTVjOTFlYzllNTY1YzA3NzBlMTNhZjVmZjcwZmIyZjUyMDdlODhiZmFhYjZmYTIwNjcxZmM2NzFlZGZkNWNlYWMwOWJlNWYyNmJkMWEzMTFmYjgxZTg1MGY1MjAzMmRhNzI2OTI0Y2RhNjQxNDdkMWMyOWU="
+  },
+  "git-provider": "GitHub",
+  "git-company": "apozogar",
+  "repository-name": "gestion-errores"
+}
